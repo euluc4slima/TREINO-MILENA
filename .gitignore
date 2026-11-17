@@ -1,0 +1,18 @@
+# dependências e build
+node_modules/
+dist/
+
+# dados pessoais — NUNCA enviar ao GitHub
+*backup*.json
+projeto-evolucao-*.csv
+lembretes-*.ics
+backups/
+fotos/
+private/
+
+# sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
